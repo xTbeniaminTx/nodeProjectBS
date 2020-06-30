@@ -1,1 +1,1 @@
-alert("Hello ceci est un te");
+import '../styles/styles.css';
